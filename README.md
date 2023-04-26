@@ -1,4 +1,4 @@
-# Attention-based Part Assembly for 3D Shape Modeling 
+# Attention-based Part Assembly for 3D Volumetric Shape Modeling
 
 ## Setup
 
